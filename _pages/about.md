@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zijing Cai"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -37,5 +37,4 @@ I am a 4th year B.S. student at the Zhejiang Gongshang University of Computer Sc
 
 ## Sitemap
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=288&t=m&d=2ljZF6KFfkxp4wxQ6pxUE1Dq5gPitQBApoOxIIRgnkU'></script>
-
 
