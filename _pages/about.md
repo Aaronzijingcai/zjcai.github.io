@@ -24,7 +24,7 @@ I am a 4th year B.S. student at the Zhejiang Gongshang University of Computer Sc
   * B.S. in [Computer Science and Technology](https://scie.zjgsu.edu.cn/),  *Sep. 2020 -- Jul. 2024*
 
 ## Awards
-* [_2022_] Second prize at Outsourcing Services for Undergraduates (Top 2%)
+* [_2022_] Second prize of China University Software Service Outsourcing Award (Top 2%)
 * [_2022_] Zhejiang Provincial Government Scholarship (Top 5%)
 * [_2022_] Excellent Student at Zhejiang Gongshang University (Top 8%)
 
