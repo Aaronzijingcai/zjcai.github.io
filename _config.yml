@@ -115,7 +115,7 @@ author:
   googlescholar: "https://scholar.google.com/citations?user=m-_Wth8AAAAJ"
   email: "aaron.zijingcai@gmail.com"
   researchgate:  # example: "https://www.researchgate.net/profile/yourprofile"
-  semanticscholar  : "https://www.semanticscholar.org/author/2116150120"
+  semanticscholar  : # ""
 
 # Reading Files
 include:
