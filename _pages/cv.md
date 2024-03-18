@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can download it [HERE](/file/paper1.pdf)
+You can download it [HERE](/file/cv.pdf)
 
 <embed src="/files/paper1.pdf" width="600px" height="500px" />

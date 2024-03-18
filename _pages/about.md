@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <!-- ## About me -->
-<br>Hi! I am a final-year(senior) undergrad majoring in Computer Science and Technology at Zhejiang Gongshang University  . Supervised by [Prof.Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381), I am working on Natural Language Processing Research Group.
+<br>Hi! I am a final-year(senior) undergrad majoring in Computer Science and Technology at Zhejiang Gongshang University. Supervised by [Prof. Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381), I am working on Natural Language Processing Research Group.
 
-I am also open to other topics. Free free to reach out if you would like to chat!
+I am also open to other topics. Feel free to reach out if you would like to chat!
 
 (This webpage was last updated on **Mar 2024**)
 
