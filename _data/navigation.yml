@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Internships"
-    url: /internships/
+#  - title: "Internships"
+#    url: /internships/
 
-  - title: "Misc"
-    url: /misc/
+#  - title: "Misc"
+#    url: /misc/
 
       #  - title: "Teaching"
 #    url: /teaching/

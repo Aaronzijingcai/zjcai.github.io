@@ -11,14 +11,19 @@ redirect_from:
 <!-- ## About me -->
 <br>Hi! I am Zijing Cai. Previously, I received a B.S. in Computer Science and Technology(advised by [Prof. Hua Zhang](https://scie.zjgsu.edu.cn/zh-hans/node/381)) from the Zhejiang Gongshang University in 2024.
 
-I am also open to other topics. Feel free to reach out if you would like to chat!
+My research interests lie broadly in language model - check my [publications](https://aaronzijingcai.github.io//publications/) or [CV(PDF)](https://aaronzijingcai.github.io//cv/) for more information. I am open to other topics as well; feel free to shoot me an email if you'd like to chat! 
 
-(This webpage was last updated on **Dec. 2024**)
+(This webpage was last updated on **Jan. 2025**)
 
 ## Research Interests
 * **Pre-trained Language Model**, investigating how to leverage the rich prior knowledge in pre-trained language models to accomplish general tasks, with a particular focus on machine reading comprehension and prompt-based learning frameworks.
 * **Contrastive Learning**, focusing on leveraging contrastive learning to enhance the quality of embeddings and to enable more nuanced and context-aware language model performances.
 * **Dual Learning**, utilizing the primal-dual structure between machine learning tasks to obtain effective feedback/regularization, guiding and reinforcing the learning process, thereby reducing the requirements for large-scale learning.
+
+## Recent news
+
+* *Jun, 2024* [**Multi-schema prompting powered token-feature woven attention network for short text classification**](https://www.sciencedirect.com/science/article/pii/S0031320324005338) accepted to **Pattern Recognition 2024**!
+
 
 ## Education
 
@@ -43,9 +48,9 @@ I am also open to other topics. Feel free to reach out if you would like to chat
 </table>
 
 ## Awards
-* [_2022_] Second prize of China University Software Service Outsourcing Award (Top 2%)
 * [_2022_] Zhejiang Provincial Government Scholarship (Top 5%)
 * [_2022_] Excellent Student at Zhejiang Gongshang University (Top 8%)
+* [_2022_] Second prize of China University Software Service Outsourcing Award (Top 2%)
 
 
 ## Sitemap

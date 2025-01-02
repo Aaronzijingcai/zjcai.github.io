@@ -10,10 +10,10 @@ author_profile: true
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 
-## Preprint
+## Manuscripts
 - **RCFIND: Reading Comprehension Powered Semantic Fusion Network for Identification of N-ary Drug Combinations**\
 Hua Zhang, Peiqian Zhan, Cheng Yang, Yongjian Yan, <span style="color:darkblue">**Zijing Cai**</span>, Guogen Shan, Bo Jiang, Bi Chen. \
-*Arxiv* [[pdf]]() [[bibtex]()]
+*In submission* 
 <a class="github-button" href="" data-show-count="true" aria-label="Star buttons/github-buttons on GitHub">RCFIND</a>
 
   
